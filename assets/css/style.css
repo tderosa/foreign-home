@@ -47,6 +47,11 @@ h5 {
   padding-right: 20px;
 }
 
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
 a {
   text-decoration: none;
   color: #000;
@@ -63,4 +68,16 @@ a:hover{
 .definitions > li {
 	font-family: "Roboto Condensed", sans-serif;
 	font-weight: 300;
+}
+
+.skate-h {
+  background-color: #A5FF9A;
+}
+
+.sleuth-h {
+  background-color: #9AB7FF;
+}
+
+.pole-h {
+  background-color: #FF9AB0;
 }
